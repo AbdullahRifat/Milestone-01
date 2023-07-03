@@ -1,0 +1,21 @@
+div{
+    border: 5px solid black;
+    text-align: justify;
+}
+.margin {
+    background-color: white;
+    
+}
+.padding{
+    background-color: green;
+    margin: 20px;
+}
+.content{
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+}
+span{
+    
+    position:fixed
+}

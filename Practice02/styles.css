@@ -1,0 +1,18 @@
+li{
+    background-color: black;
+    color: aquamarine;
+}
+p{
+    color: pink;
+    background-color: black;
+    width: 50%;
+}
+
+#large{
+    text-align: justify;
+    background-color: grey;
+    color: aqua;
+}
+.para{
+    text-align: center;
+}
