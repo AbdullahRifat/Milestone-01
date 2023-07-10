@@ -1,0 +1,142 @@
+
+*{
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+body {
+    margin: 0;
+}
+header{
+     background: rgba(229, 84, 115, 0.10);
+}
+.heading{
+    font-size: 55px;
+}
+.header-container{
+    display: flex;
+    justify-content: space-around;
+    max-width: 80%;
+    margin:0 140px;
+    padding-top:50px ;
+    max-height: 800px;
+}
+.main-cover-photo{
+    width: 500px;
+}
+.header-details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: space-around;
+    padding-right: 100px;
+}
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 400;
+    border: none;
+    width: fit-content;
+    padding: 15px 30px;
+
+
+}
+
+/* features */
+/* .feature-img{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.feature-img img{
+    width: 200px;
+    padding: 50px;
+   
+}
+.feature-img1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 300px;
+    
+}
+.feature-img1 img{
+    margin-top: 100px;
+}
+ */
+
+.feature-img{
+    display: flex; 
+    justify-content: center;
+    gap:20px;
+}
+
+.feature-img img{
+    width: 200px;
+    
+}
+
+.feature-img1,.feature-img2,.feature-img3{
+    width: 350px;
+    
+}
+
+.feature-img1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.feature-img1 img{
+    margin-top: 100px;
+    margin-left: 50px;
+    padding: 50px 50px 0px 50px;
+    margin-bottom: -5px;
+}
+.feature-img2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.feature-img2 img{
+    margin-bottom:-120px ;
+    width: 300px;
+    padding-bottom: 30px;
+
+}
+
+.feature-img3{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+display: flex;
+justify-content: center;
+}
+.feature-img3 img{
+    margin-top: 70px;
+    
+    padding: 50px 50px 0px 50px;
+    margin-bottom:-2px;
+}
+
+/* delivery css */
+.delivery{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin:100px 165px ;
+    border-radius: 8px;
+    text-align: center;
+    height: 300px;
+background: rgba(39, 39, 39, 0.05);
+}
+.delivery
+
+
+
+
+
+
+ 
